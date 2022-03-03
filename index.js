@@ -65,4 +65,6 @@ bot.on('callback_query',msg =>{
     if(msg.data==='/windows_10'){
         bot.sendSticker(msg.from.id,'https://tlgrm.ru/_/stickers/808/bcc/808bccab-e48e-4be0-bfc2-b8940a0332d2/1.webp');  
     }   
+
+    suydrkitw8e9756t
 });
