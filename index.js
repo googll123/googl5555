@@ -8,6 +8,7 @@ const options = require('./googl').options;
 bot.setMyCommands([
     {command: '/start',description: 'старт'},
     {command: '/info',description: 'информацыя'},
+    {command: '/googl',description: 'googl'},
 ]);
 
 bot.on("message",async msg=>{
